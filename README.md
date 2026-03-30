@@ -1,4 +1,4 @@
-## Info
+📢 **Info**
 - 适用于 omnibox 2.0 及以上版本。
 
 📢 **温馨提示**  
@@ -7,5 +7,5 @@
 - 请勿商用，后果自负。  
 - 如果对你有帮助，欢迎 Star ⭐ 支持！
 
-## 鸣谢
+📢 **鸣谢**
 - [IPTV](https://github.com/kakaxi-1/IPTV)
