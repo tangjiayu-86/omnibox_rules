@@ -5,6 +5,7 @@
 // @changelog v1.1.0 home返回空列表(去推荐)、双端分流策略
 // @changelog v1.0.0 初始版本，基于真实DOM结构编写
 // @dependencies cheerio
+// @downloadURL https://raw.githubusercontent.com/GD2021/omnibox_rules/refs/heads/main/NEW/91pinse.js
 
 const OmniBox = require("omnibox_sdk");
 const cheerio = require("cheerio");
