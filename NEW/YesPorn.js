@@ -6,6 +6,8 @@
 // 1.1.0 (2026-04-18) 双端分流：App端parse:1秒开，Web端sniffVideo直链
 // 1.0.0 (2026-04-18) 初始版本，支持分类/列表/详情/搜索/播放
 // @dependencies cheerio
+// @downloadURL https://raw.githubusercontent.com/GD2021/omnibox_rules/refs/heads/main/NEW/YesPorn.js
+
 
 const OmniBox = require("omnibox_sdk");
 const cheerio = require("cheerio");
