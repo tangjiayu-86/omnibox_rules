@@ -6,6 +6,7 @@
 // 1.1.0 修正分类结构，支持子分类筛选，play()支持双端直链
 // 1.0.0 初始版本 - 支持home/category/detail/search/play
 // @dependencies cheerio
+// @downloadURL https://raw.githubusercontent.com/GD2021/omnibox_rules/refs/heads/main/NEW/634TV.js
 
 const OmniBox = require("omnibox_sdk");
 const cheerio = require("cheerio");
