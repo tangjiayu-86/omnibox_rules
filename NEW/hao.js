@@ -2,7 +2,7 @@
 // @author 
 // @version 1.6.0
 // @dependencies cheerio
-// @downloadURL 
+// @downloadURL https://raw.githubusercontent.com/GD2021/omnibox_rules/refs/heads/main/NEW/hao.js
 
 
 const OmniBox = require("omnibox_sdk");
