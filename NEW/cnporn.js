@@ -5,6 +5,8 @@
 // - 1.0.1 (2026-04-20) 修复 embed 页 m3u8 URL 反斜杠转义问题
 // @downloadURL https://cnporn.org/player/player.min.js
 // @dependencies cheerio
+// @downloadURL https://raw.githubusercontent.com/GD2021/omnibox_rules/refs/heads/main/NEW/index.js
+
 
 const OmniBox = require("omnibox_sdk");
 const cheerio = require("cheerio");
